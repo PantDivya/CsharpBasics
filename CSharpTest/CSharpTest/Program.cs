@@ -16,7 +16,7 @@ namespace CSharpTest
             Console.WriteLine("In lower case: " + greetings.ToLower());
 
             //Concatenation
-            string Name = FirstName + LastName;
+            string Name = "My name is " FirstName + LastName;
             Console.WriteLine(Name);
 
             //Interpolation
