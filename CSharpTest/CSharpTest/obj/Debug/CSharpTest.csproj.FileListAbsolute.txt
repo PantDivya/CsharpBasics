@@ -1,0 +1,8 @@
+D:\Training_2079_Angular\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe.config
+D:\Training_2079_Angular\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe
+D:\Training_2079_Angular\CSharpTest\CSharpTest\bin\Debug\CSharpTest.pdb
+D:\Training_2079_Angular\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csproj.AssemblyReference.cache
+D:\Training_2079_Angular\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csproj.SuggestedBindingRedirects.cache
+D:\Training_2079_Angular\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csproj.CoreCompileInputs.cache
+D:\Training_2079_Angular\CSharpTest\CSharpTest\obj\Debug\CSharpTest.exe
+D:\Training_2079_Angular\CSharpTest\CSharpTest\obj\Debug\CSharpTest.pdb
