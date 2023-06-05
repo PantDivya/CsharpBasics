@@ -22,6 +22,13 @@ namespace CSharpTest
             //Interpolation
             string name = $"My name is { FirstName} { LastName }";
             Console.WriteLine(name);
+            
+            //Access String using index
+            Console.WriteLine("   " + FirstName[0]);
+            Console.WriteLine("   " + FirstName[1]);
+            Console.WriteLine("   " + FirstName[2]);
+            Console.WriteLine("   " + FirstName[3]);
+            Console.WriteLine("   " + FirstName[4]);
 
             Console.ReadLine();
 
