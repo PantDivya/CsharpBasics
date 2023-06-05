@@ -29,6 +29,14 @@ namespace CSharpTest
             Console.WriteLine("   " + FirstName[2]);
             Console.WriteLine("   " + FirstName[3]);
             Console.WriteLine("   " + FirstName[4]);
+            
+            //Find the index position of a specific character
+            Console.WriteLine("  " + FirstName.IndexOf("v"));
+            Console.WriteLine("  " + FirstName.IndexOf("a"));
+            Console.WriteLine("  " + FirstName.IndexOf("y"));
+            Console.WriteLine("  " + FirstName.IndexOf("D"));
+            Console.WriteLine("  " + LastName.IndexOf("a"));
+            Console.WriteLine("  " + LastName.IndexOf("n"));
 
             Console.ReadLine();
 
