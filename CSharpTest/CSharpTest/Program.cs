@@ -55,7 +55,7 @@ namespace CSharpTest
             else if(FName == "Divya")
             {
                 Console.WriteLine("We have your first name");
-            }else if(LName == "Panr")
+            }else if(LName == "Pant")
             {
                 Console.WriteLine("We have your Last name");
             }
