@@ -37,6 +37,32 @@ namespace CSharpTest
             Console.WriteLine("  " + FirstName.IndexOf("D"));
             Console.WriteLine("  " + LastName.IndexOf("a"));
             Console.WriteLine("  " + LastName.IndexOf("n"));
+            
+            //Conditions and If else statements
+            string FName = " ";
+            Console.WriteLine("Enter your first name");
+            FName= Console.ReadLine();
+
+            string LName = " ";
+            Console.WriteLine("Enter your Last Name");
+            LName= Console.ReadLine();
+
+
+            if (FName == "Divya" && LName == "Pant")
+            {
+                Console.WriteLine("We have your name");
+            }
+            else if(FName == "Divya")
+            {
+                Console.WriteLine("We have your first name");
+            }else if(LName == "Panr")
+            {
+                Console.WriteLine("We have your Last name");
+            }
+            else
+            {
+                Console.WriteLine("Name not found");
+            }
 
             Console.ReadLine();
 
