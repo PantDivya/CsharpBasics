@@ -107,6 +107,25 @@ namespace CSharpTest
        Console.Write("*");
      Console.Write("\n");
    }
+		//Break and continue statement
+for (int i = 0; i < 10; i++) 
+{
+  if (i == 4) 
+  {
+    break;
+  }
+  Console.WriteLine(i);
+}
+
+for (int i = 0; i < 10; i++) 
+{
+  if (i == 4) 
+  {
+    Console.WriteLine("Continue");
+    continue;
+  }
+  Console.WriteLine(i);
+}
             Console.ReadLine();
 
         }
